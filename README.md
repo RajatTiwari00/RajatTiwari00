@@ -13,9 +13,9 @@
 
 - 🤝Recent Internship 2,Smart Swift Innovations: **Project Trainee**
 
-- 👥 Leadership Roles: Head Coordinator, Sports Committee. AI/ML Mentor & Public Relations, GDSC.at [Head Coordinator, Sports Committee. AI/ML Mentor & Public Relations, GDSC.]
+- 👥 Leadership Roles: Head Coordinator, Sports Committee. AI/ML Mentor & Public Relations, GDSC. 
 
-- 💬 Talk to Me About: [Backend Development, EV charger technology, Aeromodelling, Java and Python based solutions.]
+- 💬 Talk to Me About: Backend Development, EV charger technology, Aeromodelling, Java and Python based solutions.
 
 - 🌐 Notable Projects: **The Lifeblood:Blood Donation Website ||Chatify:Real Time Chat Application**
 
